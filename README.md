@@ -3,7 +3,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=niccolozanotti)
 
-I'm a MSc Student in Artificial Intelligence 🧠 at University of Bologna with a Physics⚛️ background. I am interested in climate science and in how to leverage AI-based tools to build better climate models. 
+I'm a MSc Student in Artificial Intelligence at University of Bologna with a Physics background. I am interested in climate science and in how to leverage AI-based tools to build better climate models. 
 
 **Connect With Me**
 
