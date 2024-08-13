@@ -1,11 +1,11 @@
 
-### Hi there 👋, I'm Niccolò!
+## Hi there 👋, I'm Niccolò!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=niccolozanotti)
 
 I'm a MSc Student in Artificial Intelligence at University of Bologna with a Physics background. I am interested in climate science and in how to leverage AI-based tools to build better climate models. 
 
-**Connect With Me**
+### Connect With Me
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-niccolo.zanotti%40studio.unibo.it-orange?style=flat-square)](mailto:niccolo.zanotti@studio.unibo.it?subject=Hello%20Niccolò&body=Hello%20Niccolò%2C%0A)
 [![Website](https://img.shields.io/badge/-Website-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://niccolozanotti.com)
