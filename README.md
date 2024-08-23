@@ -10,5 +10,5 @@ I'm a MSc Student in Artificial Intelligence at University of Bologna with a Phy
 [![X Profile](https://img.shields.io/badge/-1DA1F2?style=social&logo=x&logoColor=black)](https://x.com/niccolozanotti)
 
 ---
-I also happen to have a [website](https://niccolozanotti.com/).
+I also happen to have a [website](https://niccolozanotti.com/) where I host my notes.
 
