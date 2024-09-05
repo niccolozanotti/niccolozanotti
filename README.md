@@ -1,7 +1,9 @@
 
 ## Hi there 👋, I'm Niccolò!
 
-I'm a MSc Student in Artificial Intelligence at University of Bologna with a Physics background. I am interested in climate science and in how to leverage AI-based tools to build better climate models. 
+I like to make sense of things, also I like good software.
+
+I am passionate about AI and climate models.
 
 ### Contact me
 
