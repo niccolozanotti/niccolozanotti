@@ -12,5 +12,5 @@ I am passionate about AI and climate models.
 [![X Profile](https://img.shields.io/badge/-1DA1F2?style=social&logo=x&logoColor=black)](https://x.com/niccolozanotti)
 
 ---
-I also happen to have a [website](https://niccolozanotti.com/) where I host my notes.
+I also happen to have a [website](https://ai4climate.science) where I host my notes.
 
