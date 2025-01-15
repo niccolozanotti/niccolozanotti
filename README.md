@@ -7,6 +7,6 @@ I am passionate about AI and climate models. Graduate Student [@SASIP-climate](h
 
 ### Get in touch 
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-orange?style=flat-square)](mailto:hello@niccolozanotti.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-orange?style=flat-square)](mailto:contact@niccolozanotti.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niccolo-zanotti/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/niccolozanotti.com)
