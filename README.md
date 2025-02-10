@@ -1,9 +1,9 @@
 
 ## Hi there 👋, I'm Niccolò!
 
-I like to make sense of things, also I like good software.
+I like to make sense of things and I ❤️ good software.
 
-I am passionate about AI and climate models. Graduate Student [@SASIP-climate](https://sasip-climate.github.io).
+
 
 ### Get in touch 
 
