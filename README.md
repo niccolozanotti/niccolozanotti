@@ -1,11 +1,12 @@
+Grad student at [unibo](https://www.unibo.it/en) in [AI](https://corsi.unibo.it/2cycle/artificial-intelligence). Visiting [DAMTP](https://www.damtp.cam.ac.uk/). 
 
-## Hi there 👋, I'm Niccolò!
+Interested in Machine Learning for Climate. And Research Software. And Open source.
 
-I am a MSc Student in AI at [unibo](https://www.unibo.it/en). 
+PGP: [9FCFC7FBA913697](https://meta.sr.ht/~niccolozanotti.pgp)
 
-Stuff I am currently working on 🔨
-- [FTorch](https://github.com/cambridge-ICCS/FTorch): a library allowing for Fortran scientific models to directly call [PyTorch](https://pytorch.org/) neural nets
+---
 
-### Get in touch 
+https://niccolozanotti.com
 
-[Website](https://niccolozanotti.com)
+Sourcehut profile: [~niccolozanotti](https://sr.ht/~niccolozanotti/)
+
