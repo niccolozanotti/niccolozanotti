@@ -1,12 +1,12 @@
-Grad student at [unibo](https://www.unibo.it/en) in [AI](https://corsi.unibo.it/2cycle/artificial-intelligence). Visiting [DAMTP](https://www.damtp.cam.ac.uk/). 
+Check my code over at
+- Codeberg: [@niccolozanotti](https://codeberg.org/niccolozanotti)
+- Sourcehut: [~niccolozanotti](https://sr.ht/~niccolozanotti/)
 
-Interested in Machine Learning for Climate. And Research Software. And Open source.
+[Public PGP key](https://meta.sr.ht/~niccolozanotti.pgp)
 
-PGP: [9FCFC7FBA913697](https://meta.sr.ht/~niccolozanotti.pgp)
+Interests:
+- AI for Climate and Weather, sea ice dynamics
+- Self hosting, Privacy-first local AI, AI on edge devices
 
----
-
-https://niccolozanotti.com
-
-Sourcehut profile: [~niccolozanotti](https://sr.ht/~niccolozanotti/)
-
+Some of the projects I've been contributing to, here on Github:
+- [`Cambridge-ICCS/FTorch`](https://Cambridge-ICCS/FTorch/): A library for directly calling PyTorch ML models from Fortran
