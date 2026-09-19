@@ -1,4 +1,5 @@
 For as much as I can, I try to keep my work at these git forges[^ai-training-crap]:
+- My Forgejo instance: [git.niccolozanotti.eu](https://git.niccolozanotti.eu/niccolozanotti)
 - Codeberg: [@niccolozanotti](https://codeberg.org/niccolozanotti)
 - Sourcehut: [~niccolozanotti](https://sr.ht/~niccolozanotti/)
 
@@ -11,11 +12,11 @@ I've been [reviewing](https://joss.theoj.org/papers/reviewed_by/@niccolozanotti)
 
 ---
 Some of my main interests:
-- AI for Climate and Weather, sea ice dynamics
+- Climate Physics, AI to enhance Weather/Climate Modeling
 - Self hosting, Privacy-first local AI, AI on edge devices
 
-📧 [contact [at] niccolozanotti [dot] com](mailto:contact@niccolozanotti.com)<br>
-🌐 [niccolozanotti.com](https://niccolozanotti.com)
+📧 [hello [at] niccolozanotti [dot] eu](mailto:hello@niccolozanotti.eu)<br>
+🌐 [niccolozanotti.com](https://niccolozanotti.eu)
 
 ---
 [^ai-training-crap]: Not personally fond of the new shoved-down-the-throat AI training on people's work thingy over here :)
